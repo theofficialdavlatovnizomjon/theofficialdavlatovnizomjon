@@ -1,8 +1,8 @@
-# Salom, men Emir 👋
+# Salom, men Nizomjon Davlatov 👋
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Dasturchi;Creative+Builder;Doimiy+o'rganishda;GitHub+profilimga+xush+kelibsiz!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Flutter+Dasturchi;Mobile+Developer;Kotlin+%7C+Swift+%7C+React;Doimiy+o'rganishda;GitHub+profilimga+xush+kelibsiz!" alt="Typing SVG" />
 
 </div>
 
@@ -10,10 +10,11 @@
 
 ## 🚀 Men haqimda
 
-* 💻 Zamonaviy va chiroyli web sahifalar yaratishni yaxshi ko‘raman
-* 🎯 Asosiy yo‘nalishim **Frontend Development** va kreativ UI
-* 🌱 Hozir **advanced JavaScript, React va animatsiyalar**ni o‘rganayapman
-* ⚡ Chiroyli, silliq va interaktiv loyihalar qilish menga yoqadi
+* 📱 Asosiy yo‘nalishim **Flutter** orqali zamonaviy va qulay mobil ilovalar yaratish
+* 💻 Bundan tashqari **Kotlin, Swift, JavaScript va React** bilan ham ishlay olaman
+* 🎯 Chiroyli dizayn, silliq animatsiya va foydalanuvchiga qulay interfeys yaratishni yoqtiraman
+* 🌱 Hozir mobile va frontend bo‘yicha bilimlarimni yanada kuchaytirib boryapman
+* ⚡ Toza kod, yaxshi arxitektura va yuqori performance men uchun muhim
 * 📫 Bog‘lanish uchun: **[dotalodalstar@gmail.com](mailto:dotalodalstar@gmail.com)**
 
 ---
@@ -33,14 +34,14 @@
 
 <div align="center">
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge\&logo=swift\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 
@@ -79,7 +80,7 @@
 
 <div align="center">
 
-> "Kod bu shunchaki funksiya emas — unda uslub, mantiq va shaxsiyat ham bor."
+> "Yaxshi dastur nafaqat ishlashi, balki chiroyli va qulay bo‘lishi ham kerak."
 
 </div>
 
@@ -95,10 +96,10 @@
 
 ## 📌 Asosiy loyihalarim
 
-* 🚀 **Portfolio Website** — zamonaviy shaxsiy portfolio sayt
-* 🎨 **Creative UI Components** — qayta ishlatiladigan animatsiyali UI elementlar
-* 📱 **Responsive Landing Pages** — toza va mobilga mos sahifalar
-* ⚙️ **JavaScript Mini Projects** — foydali va qiziqarli kichik loyihalar
+* 📱 **Flutter Mobile Apps** — zamonaviy va tezkor mobil ilovalar
+* 🤖 **Android loyihalar** — Kotlin asosidagi ilovalar
+* 🍏 **iOS tajribalar** — Swift yordamida yaratilgan loyihalar
+* 🌐 **React Frontend Projects** — interaktiv va responsive web interfeyslar
 
 ---
 
@@ -114,9 +115,9 @@
 
 `YOUR_USERNAME` joylariga GitHub username’ingizni yozing.
 
-Xohlasangiz, keyingi bosqichda men buni:
+Agar xohlasangiz, men keyingi bosqichda siz uchun:
 
-* to‘liq sizning username bilan moslab,
-* o‘zingiz haqingizdagi matnlar bilan personalizatsiya qilib,
-* qora/neon yoki minimal premium uslubda
+* premium qora-neon uslub,
+* yanada minimal clean uslub,
+* yoki full professional developer uslub
   ham tayyorlab beraman.
