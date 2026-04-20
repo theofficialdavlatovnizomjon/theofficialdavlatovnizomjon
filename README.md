@@ -15,17 +15,17 @@
 * 🎯 Chiroyli dizayn, silliq animatsiya va foydalanuvchiga qulay interfeys yaratishni yoqtiraman
 * 🌱 Hozir mobile va frontend bo‘yicha bilimlarimni yanada kuchaytirib boryapman
 * ⚡ Toza kod, yaxshi arxitektura va yuqori performance men uchun muhim
-* 📫 Bog‘lanish uchun: **[dotalodalstar@gmail.com](mailto:dotalodalstar@gmail.com)**
+* 📫 Bog‘lanish uchun: **[theofficialdavlatovnizomjon@gmail.com](mailto:theofficialdavlatovnizomjon@gmail.com)**
 
 ---
 
 ## 🌐 Mening havolalarim
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:dotalodalstar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/YOUR_USERNAME"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://instagram.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/theofficialdavlatovnizomjon"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:theofficialdavlatovnizomjon@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/theofficialdavlatovnizomjon"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://instagram.com/theofficialdavlatovnizomjon"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
@@ -53,8 +53,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=theofficialdavlatovnizomjon&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theofficialdavlatovnizomjon&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
 
 </div>
 
@@ -63,7 +63,7 @@
 ## 🔥 GitHub faolligim
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=theofficialdavlatovnizomjon&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
 </div>
 
 ---
@@ -71,7 +71,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/theofficialdavlatovnizomjon/theofficialdavlatovnizomjon/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -89,7 +89,7 @@
 ## 👀 Profil ko‘rishlar
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=theofficialdavlatovnizomjon&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </div>
 
 ---
@@ -113,7 +113,7 @@
 
 ## ⚙️ Eslatma
 
-`YOUR_USERNAME` joylariga GitHub username’ingizni yozing.
+Barcha username joylari sizning profilingizga moslab qo‘yildi.
 
 Agar xohlasangiz, men keyingi bosqichda siz uchun:
 
